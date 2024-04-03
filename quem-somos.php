@@ -1,4 +1,4 @@
-<?php include("cabecalho.php") ?>]
+<?php include("cabecalho.php") ?>
 <?php include("menu.php") ?>
 <h1>A melhor pizza da região</h1>
 
